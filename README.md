@@ -1,5 +1,7 @@
-## About Me!!
-Worked on projects developed using SDLC methods like Waterfall and Agile methodology environments. Developed a new module using MVC architecture to reconcile the data received and send reports automatically if any ambiguity occurs (This has reduced the manual work by 80%) Developed new integration system used by application that has reduced the time taken by data bridge to send data to Data lake team after day end job runs. Cleaned, analysed, processed data for downstream systems, generated reports to visualize the sales data
-Automated the manual data extraction tasks by writing Stored Procedures in SQL and automated the manual process of importing data from json/csv files into database, which helped increase the project efficacy by 70%
-Built model to predict the sales target for every month using previous sales data received from client
-Deployed application new changes to AWS EC2 systems, handled monthly server maintenance activities such as restarting services, OS updates, server usage and security checks, also dealt with AWS S3, lambda platforms.
+## Welcome to BK world
+
+Working on it......
+
+
+![start](https://user-images.githubusercontent.com/85077692/133001416-5c018069-f9af-4a68-8ec5-7ffb0d3129d8.jpg)
+
