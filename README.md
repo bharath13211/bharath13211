@@ -1,8 +1,19 @@
+### Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ## Welcome to BK world
 
-### Hello, Hoosiers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Working on it ...... 
+Below is just a prototype
 
-Working on it......
+##### 👨‍🎓 Doing Masters degree at Indiana University Bloomington in Data Science 
+##### ✍🏻 Graduate Research and Data Analyst at Bloomington Research and Assessment
+##### 👨‍💻 Ex-Data analyst at Accenture for 2 years
+
+
+
+
+
+
 
 
 ![start](https://user-images.githubusercontent.com/85077692/133001416-5c018069-f9af-4a68-8ec5-7ffb0d3129d8.jpg)
