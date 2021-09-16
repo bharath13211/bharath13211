@@ -1,6 +1,6 @@
 ### Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Welcome to BK world
+## Welcome to BK world !!
 
 # Working on it ...... 
 Below is just a prototype
@@ -13,6 +13,6 @@ Below is just a prototype
 
 ![start](https://user-images.githubusercontent.com/85077692/133001416-5c018069-f9af-4a68-8ec5-7ffb0d3129d8.jpg)
 
-Connect With Me on: <br>
+Connect With Me on:<br>
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-kumar-maturi)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bharath_028/)
