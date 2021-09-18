@@ -7,7 +7,7 @@ Below is just a prototype
 
 - 👨‍🎓 Doing Masters degree at Indiana University Bloomington in Data Science 
 - ✍🏻 Graduate Research and Data Analyst at Bloomington Research and Assessment
-- 👨‍💻 Ex-Data analyst at Accenture for 2 years
+- 👨‍💻 Ex-Data analyst at Accenture for more than 2 years
 
 
 
